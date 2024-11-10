@@ -1,3 +1,11 @@
+# Deployed on netlify
+https://portfolio-shaikazeem.netlify.app/
+
+# assets
+images-leonardo ai free generator
+icons-favicon website
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
