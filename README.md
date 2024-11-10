@@ -2,8 +2,8 @@
 https://portfolio-shaikazeem.netlify.app/
 
 # assets
-images-leonardo ai free generator
-icons-favicon website
+images-leonardo ai free generator.
+icons-favicon website.
 
 
 # React + Vite
