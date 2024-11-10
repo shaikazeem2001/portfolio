@@ -1,0 +1,47 @@
+h1{
+    display: flex;
+    font-weight: 600;
+    font-family: cursive;
+    color: rgb(110, 104, 104);
+    align-items: center;
+    justify-content: center;
+    margin: 50%;
+}
+body{
+    width: 100vh;
+    height: 100vh;
+    background-color: rgb(88, 88, 88);
+}
+@media (max-width: 768px) {
+    h1 {
+        font-size: 24px; /* Smaller text for smaller screens */
+    }
+
+    h5 {
+        font-size: 18px; /* Smaller subheading */
+    }
+
+    img {
+        width: 80%; /* Scale image size for responsiveness */
+    }
+}
+
+/* Media query for devices with a max-width of 480px (Mobile phones) */
+@media (max-width: 380px) {
+    h1 {
+        font-size: 20px; /* Even smaller text for mobile */
+        margin: 10%; /* Adjust margins */
+    }
+
+    h5 {
+        font-size: 14px; /* Smaller subheading */
+    }
+
+    img {
+        width: 100%; /* Image takes up full width */
+    }
+
+    body {
+        padding: 10px;
+    }
+}
