@@ -18,7 +18,7 @@ function Projects() {
         />
         <ProjectCard
           src={freshBurger}
-          link="https://shaikazeem2001.github.io/"
+          link="https://shaikazeem2001.github.io/burger/"
           h3="Fresh Burger"
           p="Hamburger Restaurant"
         />
