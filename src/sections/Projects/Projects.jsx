@@ -1,7 +1,7 @@
 import styles from './ProjectsStyles.module.css';
 import weather from '../../assets/weather.png';
 import freshBurger from '../../assets/fresh-burger.png';
-import hipsster from '../../assets/hipsster.png';
+import hipsster from '../../assets/hipster.jpg';
 import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
 
